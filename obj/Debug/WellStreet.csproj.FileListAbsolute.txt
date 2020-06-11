@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\WellStreet\bin\Debug\WellStreet.exe.config
+C:\Users\User\Desktop\WellStreet\bin\Debug\WellStreet.exe
+C:\Users\User\Desktop\WellStreet\bin\Debug\WellStreet.pdb
+C:\Users\User\Desktop\WellStreet\obj\Debug\WellStreet.Form1.resources
+C:\Users\User\Desktop\WellStreet\obj\Debug\WellStreet.Market.resources
+C:\Users\User\Desktop\WellStreet\obj\Debug\WellStreet.Profil.resources
+C:\Users\User\Desktop\WellStreet\obj\Debug\WellStreet.Properties.Resources.resources
+C:\Users\User\Desktop\WellStreet\obj\Debug\WellStreet.Registar.resources
+C:\Users\User\Desktop\WellStreet\obj\Debug\WellStreet.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\WellStreet\obj\Debug\WellStreet.exe
+C:\Users\User\Desktop\WellStreet\obj\Debug\WellStreet.pdb
+C:\Users\User\Desktop\WellStreet\obj\Debug\WellStreet.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\STD ВИКИ\2.ГПИ C#\Курсов проект - WellStreet - Вики\WellStreet\bin\Debug\WellStreet.exe.config
+C:\Users\User\Desktop\STD ВИКИ\2.ГПИ C#\Курсов проект - WellStreet - Вики\WellStreet\obj\Debug\WellStreet.exe
+C:\Users\User\Desktop\STD ВИКИ\2.ГПИ C#\Курсов проект - WellStreet - Вики\WellStreet\obj\Debug\WellStreet.pdb
+D:\STD ВИКИ\2.ГПИ C#\Курсов проект - WellStreet - Вики\WellStreet\bin\Debug\WellStreet.exe.config
+D:\STD ВИКИ\2.ГПИ C#\Курсов проект - WellStreet - Вики\WellStreet\obj\Debug\WellStreet.exe
+D:\STD ВИКИ\2.ГПИ C#\Курсов проект - WellStreet - Вики\WellStreet\obj\Debug\WellStreet.pdb
